@@ -1,0 +1,10 @@
+{
+    "age": 36,
+    "diseases": [
+        "goat"
+    ],
+    "gender": "male",
+    "height": 165,
+    "name": "Messi",
+    "weight": 65
+}

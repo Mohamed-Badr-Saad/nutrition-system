@@ -1,0 +1,30 @@
+{
+    "patients": [
+        {
+            "age": 30,
+            "dietPlan": "{\n    \"Friday\": {\n        \"Breakfast\": [\n            \"Blueberry\",\n            \"Chicken Breast\"\n        ],\n        \"Dinner\": [\n            \"Beef\",\n            \"Beef\"\n        ],\n        \"Lunch\": [\n            \"Blueberry\",\n            \"Beef\"\n        ]\n    },\n    \"Monday\": {\n        \"Breakfast\": [\n            \"Chicken Breast\",\n            \"Blueberry\"\n        ],\n        \"Dinner\": [\n            \"Apple\",\n            \"Spinach\"\n        ],\n        \"Lunch\": [\n            \"Carrot\",\n            \"Beef\"\n        ]\n    },\n    \"Saturday\": {\n        \"Breakfast\": [\n            \"Blueberry\",\n            \"Blueberry\"\n        ],\n        \"Dinner\": [\n            \"Beef\",\n            \"Beef\"\n        ],\n        \"Lunch\": [\n            \"Beef\",\n            \"Carrot\"\n        ]\n    },\n    \"Sunday\": {\n        \"Breakfast\": [\n            \"Buckwheat\",\n            \"Chicken Breast\"\n        ],\n        \"Dinner\": [\n            \"Barley\",\n            \"Spinach\"\n        ],\n        \"Lunch\": [\n            \"Millet\",\n            \"Blueberry\"\n        ]\n    },\n    \"Thursday\": {\n        \"Breakfast\": [\n            \"Blueberry\",\n            \"Tomato\"\n        ],\n        \"Dinner\": [\n            \"Spinach\",\n            \"Beef\"\n        ],\n        \"Lunch\": [\n            \"Beef\",\n            \"Blueberry\"\n        ]\n    },\n    \"Tuesday\": {\n        \"Breakfast\": [\n            \"Buckwheat\",\n            \"Tomato\"\n        ],\n        \"Dinner\": [\n            \"Beef\",\n            \"Spinach\"\n        ],\n        \"Lunch\": [\n            \"Carrot\",\n            \"Carrot\"\n        ]\n    },\n    \"Wednesday\": {\n        \"Breakfast\": [\n            \"Blueberry\",\n            \"Buckwheat\"\n        ],\n        \"Dinner\": [\n            \"Beef\",\n            \"Beef\"\n        ],\n        \"Lunch\": [\n            \"Carrot\",\n            \"Beef\"\n        ]\n    }\n}",
+            "diseases": [
+                "headache"
+            ],
+            "feedback": 6.0,
+            "gender": "Female",
+            "height": 168.0,
+            "name": "Sara",
+            "userId": "user189841",
+            "weight": 65.0
+        },
+        {
+            "age": 24,
+            "dietPlan": "{\n    \"Friday\": {\n        \"Breakfast\": [\n            \"Broccoli\",\n            \"Salmon\"\n        ],\n        \"Dinner\": [\n            \"Bell Pepper\",\n            \"Oats\"\n        ],\n        \"Lunch\": [\n            \"Broccoli\",\n            \"Broccoli\"\n        ]\n    },\n    \"Monday\": {\n        \"Breakfast\": [\n            \"Broccoli\",\n            \"Salmon\"\n        ],\n        \"Dinner\": [\n            \"Apple\",\n            \"Bell Pepper\"\n        ],\n        \"Lunch\": [\n            \"Quinoa\",\n            \"Broccoli\"\n        ]\n    },\n    \"Saturday\": {\n        \"Breakfast\": [\n            \"Millet\",\n            \"Salmon\"\n        ],\n        \"Dinner\": [\n            \"Oats\",\n            \"Bell Pepper\"\n        ],\n        \"Lunch\": [\n            \"Broccoli\",\n            \"Salmon\"\n        ]\n    },\n    \"Sunday\": {\n        \"Breakfast\": [\n            \"Banana\",\n            \"Millet\"\n        ],\n        \"Dinner\": [\n            \"Bell Pepper\",\n            \"Apple\"\n        ],\n        \"Lunch\": [\n            \"Salmon\",\n            \"Salmon\"\n        ]\n    },\n    \"Thursday\": {\n        \"Breakfast\": [\n            \"Broccoli\",\n            \"Millet\"\n        ],\n        \"Dinner\": [\n            \"Bell Pepper\",\n            \"Oats\"\n        ],\n        \"Lunch\": [\n            \"Broccoli\",\n            \"Salmon\"\n        ]\n    },\n    \"Tuesday\": {\n        \"Breakfast\": [\n            \"Millet\",\n            \"Banana\"\n        ],\n        \"Dinner\": [\n            \"Salmon\",\n            \"Apple\"\n        ],\n        \"Lunch\": [\n            \"Salmon\",\n            \"Salmon\"\n        ]\n    },\n    \"Wednesday\": {\n        \"Breakfast\": [\n            \"Banana\",\n            \"Broccoli\"\n        ],\n        \"Dinner\": [\n            \"Bell Pepper\",\n            \"Bell Pepper\"\n        ],\n        \"Lunch\": [\n            \"Salmon\",\n            \"Apple\"\n        ]\n    }\n}",
+            "diseases": [
+                "None"
+            ],
+            "feedback": 6.0,
+            "gender": "Male",
+            "height": 178.0,
+            "name": "Mohamed Badr",
+            "userId": "user103954",
+            "weight": 75.0
+        }
+    ]
+}
